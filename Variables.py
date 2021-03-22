@@ -10,3 +10,15 @@
 first_number = 5
 _second_Number = 10
 print(first_number+_second_Number)
+
+# Static, Dynamic, Strong, Weak 
+
+    # Static - Statically-typed programming languages do type checking (i.e., the process of verifying and enforcing the constraints of types on values) at compile-time
+
+    # Dynamic - Statically-typed programming languages do type checking (i.e., the process of verifying and enforcing the constraints of types on values) at Run time
+
+    # Weak - Weakly-typed languages make conversions between unrelated types implicitly
+
+    # Strong - strongly-typed languages don’t allow implicit conversions between unrelated types.
+
+    
